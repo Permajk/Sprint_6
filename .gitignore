@@ -1,0 +1,11 @@
+\__pycache__
+\__pycache__\conftest.cpython-313-pytest-9.0.0.pyc
+\__pycache__\data.cpython-313.pyc
+\tests\__pycache__
+\tests\__pycache__\test_main_page.cpython-313-pytest-9.0.0.pyc
+\tests\__pycache__\test_order_page.cpython-313-pytest-9.0.0.pyc
+\pages\__pycache__
+\pages\__pycache__\base_page.cpython-313.pyc
+\pages\__pycache__\main_page.cpython-313.pyc
+\locators\__pycache__
+\locators\__pycache__\main_page_locators.cpython-313.pyc
