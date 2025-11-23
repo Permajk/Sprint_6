@@ -6,7 +6,8 @@ class OrderLocators:
     # Верхняя кнопка заказа
     BUTTON_ORDER_UP = (By.XPATH, "//button[@class='Button_Button__ra12g']")
     # Нижняя кнопка заказа
-    BUTTON_ORDER_DOWN = (By.XPATH, "//button[@class='Button_Button__ra12g Button_Middle__1CSJM']")
+    # BUTTON_ORDER_DOWN = (By.XPATH, "//button[@class='Button_Button__ra12g Button_Middle__1CSJM']")
+    BUTTON_ORDER_DOWN = (By.XPATH, "//div[contains(@class, 'Home_FinishButton')]/button[text()='Заказать']")
 
     # Поля ввода данных(первое меню)
     NAME = (By.XPATH, "//input[@placeholder='* Имя']")

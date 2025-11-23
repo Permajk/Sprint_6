@@ -1,6 +1,6 @@
 # Проект по автоматизации POM-тестов сервиса "Яндекс.Самокат" - Алексей Рогожников, 6 Спринт, 32 когорта
 
-                              **СОДЕРЖАНИЕ**
+                                СОДЕРЖАНИЕ
 
 - **tests/test_main_page.py**: тесты на странице 'https://qa-scooter.praktikum-services.ru/'.
 - **tests/test_order_page.py**: тесты на странице 'https://qa-scooter.praktikum-services.ru/order'.
@@ -15,7 +15,7 @@
 
 ```bash
 # Установите зависимости
-
+pip3 install -r requirements.txt
 
 # Запустите тесты с генерацией результата для Allure
 pytest --alluredir=allure_results
